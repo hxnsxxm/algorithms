@@ -1,3 +1,5 @@
+package 피보나치함수;
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
