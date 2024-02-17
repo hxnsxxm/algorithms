@@ -2,7 +2,7 @@
 DP 문제 풀이 순서
 
 1. 주어진 문제의 optimal solution이 구조적으로 어떤 특징을 가지는지 분석한다.  
-  1-1. ~하는 경우의 최솟값 -> `depth` 개수와 관련있음
+  1-1. ~하는 경우의 최솟값 -> `depth` 개수와 관련있음  
   1-2. ~하는 방법의 수 -> 마지막 노드 중 유효한(조건 만족) 노드의 개수
 2. 재귀적인 형태로 optimal solution의 value를 정의한다.
 3. (주로) Bottom-Up 방식으로 optimal solution의 value를 구한다.
@@ -11,8 +11,6 @@ DP 문제 풀이 순서
 <br>
 
 ### 참고 사항
-
-<br>
 
 #### ~하는 경우의 최솟값 -> `depth` 개수와 관련있음
   - 연산을 사용하는 횟수의 최솟값
@@ -65,8 +63,6 @@ int operate_bottom_up(int x) {
 }
 ```
 
-<br>
-
 #### ~하는 방법의 수 -> 마지막 노드 중 유효한(조건 만족) 노드의 개수
   - n을 1, 2, 3의 합으로 나타내는 방법의 수
 ```java
@@ -105,6 +101,23 @@ int countWays(int n) {
     }
 
     return dp[n];
+}
+
+/**
+ * Dynamic Programming 구현 : bottom-up 방식
+ */
+int count_bottom_up (int n) {
+    int[] tabular = new int[11];
+
+    tabular[1] = 1;
+    tabular[2] = 2;
+    tabular[3] = 4;
+
+    for (int i = 4; i <= n; i++) {
+        tabular[i] = tabular[i - 1] + tabular[i - 2] + tabular[i - 3];
+    }
+
+    return tabular[n];
 }
 
 ```
