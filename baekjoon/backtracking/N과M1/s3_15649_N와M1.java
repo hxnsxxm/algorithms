@@ -1,9 +1,10 @@
+package backtracking.N과M1;
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.OutputStreamWriter;
-import java.util.Arrays;
 import java.util.StringTokenizer;
 
 public class s3_15649_N와M1 {
@@ -17,7 +18,7 @@ public class s3_15649_N와M1 {
     public static void main(String[] args) throws IOException {
         //BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedReader br = new BufferedReader(
-                new FileReader("backtracking/input/s3_15649.txt")
+                new FileReader("backtracking/N과M1/s3_15649.txt")
         );
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
