@@ -13,4 +13,5 @@
 |      [DP](./dp/DP.md)      | 실버 3 | 11726 | [2xn 타일링](./dp/_2xn타일링/_2xn타일링.md)         |  2   |    X    | 20240217 | 알고리즘 분류 |
 |      [DP](./dp/DP.md)      | 실버 4 |  2839 | [설탕 배달](./dp/설탕배달/설탕배달.md)                 |  2   |    O    | 20240216 | 알고리즘 분류 |
 | [BT](./backtracking/BT.md) | 골드 4 |  9663 | [N-Queen](./backtracking/NQueen/NQueen.md) |  2   |    O    | 20240218 | 알고리즘 분류        |
+| [BT](./backtracking/BT.md) | 실버 2 |  6603 | [로또](./backtracking/로또/로또.md)              |  1   |    X    | 20240218 | 알고리즘 분류               |
 | [BT](./backtracking/BT.md) | 실버 3 | 15649 | [N과 M (1)](./backtracking/N과M1/N과M1.md)    |  2   |    O    | 20240218 | 알고리즘 분류 |
