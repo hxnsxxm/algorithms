@@ -30,3 +30,29 @@ String trans = str.replaceAll("\\(", "t");
 - "("나 ")"를 변환하려면 "\\(", "\\)" 로 기입해야 함.
 
 <br>
+
+#### ArrayList 깊은 복사
+```java
+List<Integer> list = new ArrayList<>();
+
+list.add(1);
+list.add(3);
+list.add(4);
+
+List<Integer> copy = new ArrayList<>(list);
+```
+
+<br>
+
+#### ArrayList 기본 문법
+```java
+List<Integer> list = new ArrayList<>();
+
+list.add(1);     // {1}
+
+list.set(0, 10); // 해당 인덱스의 값 변경, {10}
+
+list.remove(0);  // 해당 인덱스의 값 삭제, {}
+```
+
+<br>
