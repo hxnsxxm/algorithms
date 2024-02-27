@@ -1,3 +1,5 @@
+package binarysearch.공유기설치;
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
@@ -15,7 +17,7 @@ public class g4_02110_공유기설치 {
     public static void main(String[] args) throws IOException {
         //BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedReader br = new BufferedReader(
-                new FileReader("binarysearch/input/g4_02110.txt")
+                new FileReader("binarysearch/공유기설치/g4_02110.txt")
         );
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
