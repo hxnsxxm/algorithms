@@ -1,9 +1,10 @@
+package binarysearch.나무자르기;
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.OutputStreamWriter;
-import java.util.Arrays;
 import java.util.StringTokenizer;
 
 public class s2_02805_나무자르기 {
@@ -15,7 +16,7 @@ public class s2_02805_나무자르기 {
     public static void main(String[] args) throws IOException {
         //BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedReader br = new BufferedReader(
-                new FileReader("binarysearch/input/s2_02805.txt")
+                new FileReader("binarysearch/나무자르기/s2_02805.txt")
         );
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 

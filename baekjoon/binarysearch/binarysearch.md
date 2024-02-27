@@ -84,3 +84,33 @@ class Main {
     }
 }
 ```
+
+<br>
+
+### 예제 문제 : 백준/나무 자르기 `upper bound`
+```java
+static long bSearch() {
+    long bottom = 0;
+    long top = max + 1;
+    long mid = 0;
+
+    while (bottom < top) {
+        mid = bottom + (top - bottom)/2;
+        System.out.print(top + ", " + bottom + ", " + mid);
+        long sum = 0;
+
+        for (int h : trees) {
+            if (h > mid)
+                sum += h - mid;
+        }
+        System.out.println(" >> sum : " + sum);
+
+        if (sum < M)
+            top = mid;
+        else
+            bottom = mid + 1;
+    }
+
+    return bottom - 1;
+}
+```
