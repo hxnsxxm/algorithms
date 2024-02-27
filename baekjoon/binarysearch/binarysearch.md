@@ -87,7 +87,7 @@ class Main {
 
 <br>
 
-### 예제 문제 : 백준/나무 자르기 `upper bound`
+### 예제 문제 : 백준/나무 자르기, 백준/랜선 자르기 `upper bound`
 ```java
 static long bSearch() {
     long bottom = 0;

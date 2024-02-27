@@ -1,3 +1,5 @@
+package binarysearch.랜선자르기;
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
@@ -14,7 +16,7 @@ public class s2_01654_랜선자르기 {
     public static void main(String[] args) throws IOException {
         //BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedReader br = new BufferedReader(
-                new FileReader("binarysearch/input/s2_01654.txt")
+                new FileReader("binarysearch/랜선자르기/s2_01654.txt")
         );
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
