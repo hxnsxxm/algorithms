@@ -1,3 +1,5 @@
+package 로프;
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
