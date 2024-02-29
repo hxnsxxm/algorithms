@@ -22,6 +22,14 @@ System.out.println(new); // out: "ELLO";
 
 <br>
 
+#### String - 문자열 나누기 : `StringTokenizer`
+```java
+StringTokenizer st = new StringTokenizer("30-50+40-60", "-");
+// "30", "-", "50+40", "-", "60"
+```
+
+<br>
+
 #### String - 문자열 변환
 ```java
 String str = "()";

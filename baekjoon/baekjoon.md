@@ -21,4 +21,5 @@
 | [Binary Search](./binarysearch/binarysearch.md) | 실버 4 |  1920 | [수 찾기](./binarysearch/수찾기/수찾기.md)          |  2   |    X    | 20240226 | 알고리즘 분류 |
 | [Binary Search](./binarysearch/binarysearch.md) | 실버 4 | 10816 | [숫자 카드 2](./binarysearch/숫자카드2/숫자카드2.md)   |  1   |    O    | 20240226 | 알고리즘 분류 |
 |          [Greedy](./greedy/greedy.md)           | 실버 1 |  1931 | [회의실 배정](./greedy/회의실배정/회의실배정.md)          |  2   |    X    | 20240229 | 알고리즘 분류 |
+|          [Greedy](./greedy/greedy.md)           | 실버 2 |  1541 | [잃어버린 괄호](./greedy/잃어버린괄호/잃어버린괄호.md)       |  2   |    O    | 20240229 | 알고리즘 분류 |
 |          [Greedy](./greedy/greedy.md)           | 실버 4 | 11047 | [동전 0](./greedy/동전0/동전0.md)                |  2   |    X    | 20240229 | 알고리즘 분류 |
