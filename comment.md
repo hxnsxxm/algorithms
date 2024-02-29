@@ -1,4 +1,5 @@
 
+## 문자열
 #### String - 문자열 정렬
 ```java
 String str = "HELLO WORLD";
@@ -31,6 +32,7 @@ String trans = str.replaceAll("\\(", "t");
 
 <br>
 
+## ArrayList
 #### ArrayList 깊은 복사
 ```java
 List<Integer> list = new ArrayList<>();
@@ -56,3 +58,14 @@ list.remove(0);  // 해당 인덱스의 값 삭제, {}
 ```
 
 <br>
+
+## 정렬
+#### `new Comparator<>(){}`를 사용하여 내림차순 구현
+```java
+Arrays.sort(coins, new Comparator<Integer>(){
+    @Override
+    public int compare(Integer n, Integer m) {
+        return m - n;
+    }
+});
+```
