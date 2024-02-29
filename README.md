@@ -29,6 +29,7 @@
 1\) [Dynamic Programming](./baekjoon/dp/DP.md)  
 2\) [BackTracking](./baekjoon/backtracking/BT.md)  
 3\) [Binary Search](./baekjoon/binarysearch/binarysearch.md)  
+4\) [Greedy](./baekjoon/greedy/greedy.md)  
 
 ### 문법 정리
 1\) [문법 정리 사항](comment.md)
