@@ -1,3 +1,5 @@
+package 주유소;
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
@@ -5,40 +7,43 @@ import java.io.IOException;
 import java.io.OutputStreamWriter;
 import java.util.StringTokenizer;
 
-public class s3_13305_주유소 {
+public class 주유소 {
+
+    static int N;
+    static long[] distance;
+    static long[] oil;
 
     public static void main(String[] args) throws IOException {
         //BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedReader br = new BufferedReader(
-                new FileReader("greedy/input/s3_13305.txt")
+                new FileReader("baekjoon/greedy/주유소/s3_13305.txt")
         );
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
         StringTokenizer st;
 
-        int N = Integer.parseInt(br.readLine());
-        int[][] cities = new int[N-1][2];
+        N = Integer.parseInt(br.readLine());
+        distance = new long[N - 1];
+        oil = new long[N];
 
         st = new StringTokenizer(br.readLine());
         for (int i = 0; i < N - 1; i++) {
-            cities[i][1] = Integer.parseInt(st.nextToken()); // 도시 간 거리
+            distance[i] = Integer.parseInt(st.nextToken());
         }
         st = new StringTokenizer(br.readLine());
-        for (int i = 0; i < N - 1; i++) {
-            cities[i][0] = Integer.parseInt(st.nextToken()); // 리터당 가격
+        for (int i = 0; i < N; i++) {
+            oil[i] = Integer.parseInt(st.nextToken());
         }
 
-        long sum = 0;
-        long minCost = cities[0][0];
-
+        long result = 0;
+        long minCost = oil[0];
         for (int i = 0; i < N - 1; i++) {
-            if (cities[i][0] < minCost) {
-                minCost = cities[i][0];
-            }
+            if (minCost > oil[i])
+                minCost = oil[i];
 
-            sum += minCost * cities[i][1];
+            result += minCost * distance[i];
         }
 
-        System.out.print(sum);
+        System.out.print(result);
     }
 }
