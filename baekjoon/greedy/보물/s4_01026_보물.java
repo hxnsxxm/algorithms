@@ -1,3 +1,5 @@
+package 보물;
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
