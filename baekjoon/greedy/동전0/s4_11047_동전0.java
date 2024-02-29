@@ -1,3 +1,5 @@
+package 동전0;
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
