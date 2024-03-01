@@ -40,7 +40,10 @@ String trans = str.replaceAll("\\(", "t");
 
 <br>
 
-## ArrayList
+## Collections
+
+### ArrayList
+
 #### ArrayList 깊은 복사
 ```java
 List<Integer> list = new ArrayList<>();
@@ -64,6 +67,10 @@ list.set(0, 10); // 해당 인덱스의 값 변경, {10}
 
 list.remove(0);  // 해당 인덱스의 값 삭제, {}
 ```
+
+<br>
+
+### Priority Queue 사용법
 
 <br>
 

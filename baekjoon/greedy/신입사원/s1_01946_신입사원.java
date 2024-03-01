@@ -1,11 +1,11 @@
+package greedy.신입사원;
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.Arrays;
-import java.util.Comparator;
 import java.util.StringTokenizer;
 
 public class s1_01946_신입사원 {
@@ -13,7 +13,7 @@ public class s1_01946_신입사원 {
     public static void main(String[] args) throws IOException {
         //BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedReader br = new BufferedReader(
-                new FileReader("greedy/input/s1_01946.txt")
+                new FileReader("greedy/신입사원/s1_01946.txt")
         );
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
