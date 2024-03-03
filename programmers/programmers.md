@@ -10,4 +10,5 @@
 |       문자열 다루기        | [2](./level2/level2.md) | [수식 최대화](./level2/수식최대화/수식최대화.md)                        |  1   |    O    | 20240221 | 2020 카카오 인턴십                 |
 |                      | [2](./level2/level2.md) | [거리두기 확인하기](./level2/거리두기확인하기/거리두기확인하기.md)               |  1   |    X    | 20240222 | 2021 카카오 채용연계형 인턴십           |
 |                      | [2](./level2/level2.md) | [문자열 압축](./level2/문자열압축/문자열압축.md)                        |  1   |    O    | 20240223 | 2020 KAKAO BLIND RECRUITMENT |
-| backtracking <br> 조합 | [2](./level2/level2.md) | [이모티콘 할인행사](./level2/이모티콘할인행사/이모티콘할인행사.md)         |  1   |    O    | 20240224 | 2023 KAKAO BLIND RECRUITMENT |
+| backtracking <br> 조합 | [2](./level2/level2.md) | [이모티콘 할인행사](./level2/이모티콘할인행사/이모티콘할인행사.md)               |  1   |    O    | 20240224 | 2023 KAKAO BLIND RECRUITMENT |
+| backtracking <br> 조합 | [2](./level2/level2.md) | [양궁 대회](./level2/양궁대회/양궁대회.md)             |  1   |    O    | 20240304 | 2022 KAKAO BLIND RECRUITMENT |
