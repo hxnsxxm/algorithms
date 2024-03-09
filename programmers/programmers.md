@@ -14,3 +14,4 @@
 | backtracking <br> 조합 | [2](./level2/level2.md) | [양궁 대회](./level2/양궁대회/양궁대회.md)                           |  1   |    O    | 20240304 | 2022 KAKAO BLIND RECRUITMENT |
 |                      | [2](./level2/level2.md) | [순위 검색](./level2/순위검색/순위검색.md)                           |  1   |    O    | 20240306 | 2021 KAKAO BLIND RECRUITMENT |
 |                      | [2](./level2/level2.md) | [택배 배달과 수거하기](./level2/택배배달과수거하기/택배배달과수거하기.md)           |  1   |    O    | 20240308 | 2023 KAKAO BLIND RECRUITMENT |
+|                      | [2](./level2/level2.md) | [도넛과 막대 그래프](./level2/도넛과막대그래프/도넛과막대그래프.md)              |  1   |    O    | 20240309 | 2024 KAKAO WINTER INTERNSHIP |
