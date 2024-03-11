@@ -17,3 +17,4 @@
 |                      | [2](./level2/level2.md) | [도넛과 막대 그래프](./level2/도넛과막대그래프/도넛과막대그래프.md)              |  1   |    O    | 20240309 | 2024 KAKAO WINTER INTERNSHIP |
 |                      | [3](./level3/level3.md) | [보석 쇼핑](/level3/보석쇼핑/보석쇼핑.md)                            |  1   |    O    | 20240310 | 2020 카카오 인턴십 |
 |                      | [3](./level3/level3.md) | [경주로 건설](/level3/경주로건설/경주로건설.md)                         |  1   |    O    | 20240311 | 2020 카카오 인턴십 |
+|                      | [3](./level3/level3.md) | [합승 택시 요금](/level3/합승택시요금/합승택시요금.md)                     |  1   |    O    | 20240312 | 2021 KAKAO BLIND RECRUITMENT             |
