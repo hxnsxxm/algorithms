@@ -38,7 +38,6 @@ public class 경주로건설_success {
     int[][][] costs;
     int[] dr = {0, 1, 0, -1};
     int[] dc = {1, 0, -1, 0};
-    boolean[][] visited;
 
     public int solution(int[][] board) {
         int answer = 0;
@@ -51,14 +50,12 @@ public class 경주로건설_success {
                 Arrays.fill(one, Integer.MAX_VALUE);
 
         costs[0][0] = new int[]{0, 0, 0, 0};
-        visited = new boolean[N][N];
 
         return bfs(0, 0);
     }
 
     int bfs(int r, int c) {
         Queue<int[]> queue = new LinkedList<>(); //0: r, 1: c, 2: direction
-        visited[r][c] = true;
         queue.add(new int[]{r, c, 0});
         int result = Integer.MAX_VALUE;
 
@@ -74,7 +71,7 @@ public class 경주로건설_success {
 
                 if (tr < 0 || tc < 0 || tc >= N || tr >= N)
                     continue;
-                if (board[tr][tc] == 1 || visited[tr][tc])
+                if (board[tr][tc] == 1)
                     continue;
 
                 int newCost = costs[r][c][preDir];
