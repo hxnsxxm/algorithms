@@ -18,3 +18,4 @@
 |                      | [3](./level3/level3.md) | [보석 쇼핑](./level3/보석쇼핑/보석쇼핑.md)                           |  1   |    O    | 20240310 | 2020 카카오 인턴십 |
 |                      | [3](./level3/level3.md) | [경주로 건설](./level3/경주로건설/경주로건설.md)                        |  1   |    O    | 20240311 | 2020 카카오 인턴십 |
 |                      | [3](./level3/level3.md) | [합승 택시 요금](./level3/합승택시요금/합승택시요금.md)                    |  1   |    O    | 20240312 | 2021 KAKAO BLIND RECRUITMENT             |
+|                      | [3](./level3/level3.md) | [자물쇠와 열쇠](./level3/자물쇠와열쇠/자물쇠와열쇠.md)                     |  1   |    O    | 20240314 | 2020 KAKAO BLIND RECRUITMENT  |
