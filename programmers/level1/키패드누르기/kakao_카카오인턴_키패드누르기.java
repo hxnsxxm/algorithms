@@ -1,3 +1,5 @@
+package 키패드누르기;
+
 public class kakao_카카오인턴_키패드누르기 {
     int lh = 10;
     int rh = 11;

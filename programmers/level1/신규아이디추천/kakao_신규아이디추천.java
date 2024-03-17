@@ -1,3 +1,5 @@
+package 신규아이디추천;
+
 public class kakao_신규아이디추천 {
 
     public String solution(String new_id) {
@@ -17,7 +19,7 @@ public class kakao_신규아이디추천 {
         // }
         // new_id = sb.toString();
         // --
-        new_id = new_id.replaceAll("[^0-9a-z.-_]", "");
+        new_id = new_id.replaceAll("[^0-9a-z-_.]", "");
         System.out.println("(2) " + new_id);
 
         // (3)

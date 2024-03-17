@@ -1,3 +1,5 @@
+package 개인정보수집유효기간;
+
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;

@@ -1,3 +1,5 @@
+package 성격유형검사하기;
+
 import java.util.HashMap;
 import java.util.Map;
 

@@ -1,3 +1,5 @@
+package 숫자문자열과영단어;
+
 public class kakao_숫자문자열과영단어 {
 
     public int solution(String s) {
