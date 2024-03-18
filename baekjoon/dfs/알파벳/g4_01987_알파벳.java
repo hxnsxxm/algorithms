@@ -1,3 +1,5 @@
+package 알파벳;
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
@@ -19,7 +21,7 @@ public class g4_01987_알파벳 {
     public static void main(String[] args) throws IOException {
         //BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedReader br = new BufferedReader(
-                new FileReader("dfs/input/g4_01987.txt")
+                new FileReader("baekjoon/dfs/알파벳/g4_01987.txt")
         );
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
