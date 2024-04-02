@@ -10,7 +10,7 @@
 |                      | [1](./level1/level1.md) | [신고 결과 받기](./level1/신고결과받기/신고결과받기.md)                    |  2   |    X    |        20240316        |  2022 KAKAO BLIND RECRUITMENT                                            |
 |                      | [1](./level1/level1.md) | [가장 많이 받은 선물](./level1/가장많이받은선물/가장많이받은선물.md)             |  2   |    X    |        20240317        |  2024 KAKAO WINTER INTERNSHIP                                            |
 |        소수 판별         | [2](./level2/level2.md) | [k진수에서 소수 개수 구하기](./level2/k진수에서소수개수구하기/k진수에서소수개수구하기.md) |  2   |    X    | 20240319 <br> 20240219 | 2022 KAKAO BLIND RECRUITMENT            |
-|                      | [2](./level2/level2.md) | [주차 요금 계산](./level2/주차요금계산/주차요금계산.md)                    |  2   |    O    |  20240319 <br> 20240219        | 2022 KAKAO BLIND RECRUITMENT            |
+|                      | [2](./level2/level2.md) | [주차 요금 계산](./level2/주차요금계산/주차요금계산.md)                    |  2   |    O    | 20240319 <br> 20240219 | 2022 KAKAO BLIND RECRUITMENT            |
 |                      | [2](./level2/level2.md) | [두 큐 합 같게 만들기](./level2/두큐합같게만들기/두큐합같게만들기.md)            |  1   |    O    |        20240220        | 2022 KAKAO TECH INTERNSHIP              |
 |                      | [2](./level2/level2.md) | [메뉴 리뉴얼](./level2/메뉴리뉴얼/메뉴리뉴얼.md)                        |  1   |    X    |        20240220        | 2021 KAKAO BLIND RECRUITMENT            |
 |       문자열 다루기        | [2](./level2/level2.md) | [괄호 변환](./level2/괄호변환/괄호변환.md)                           |  1   |    O    |        20240221        | 2020 KAKAO BLIND RECRUITMENT            |
@@ -22,6 +22,8 @@
 |                      | [2](./level2/level2.md) | [순위 검색](./level2/순위검색/순위검색.md)                           |  1   |    O    |        20240306        | 2021 KAKAO BLIND RECRUITMENT            |
 |                      | [2](./level2/level2.md) | [택배 배달과 수거하기](./level2/택배배달과수거하기/택배배달과수거하기.md)           |  1   |    O    |        20240308        | 2023 KAKAO BLIND RECRUITMENT            |
 |                      | [2](./level2/level2.md) | [도넛과 막대 그래프](./level2/도넛과막대그래프/도넛과막대그래프.md)              |  1   |    O    |        20240309        | 2024 KAKAO WINTER INTERNSHIP            |
+|                      | [2](./level2/level2.md) | [3차 압축](./level2/압축/압축.md)                               |  1   |    X    |        20240401        | 2018 KAKAO BLIND RECRUITMENT  |
+|                      | [2](./level2/level2.md) | [n진수 게임](./level2/n진수게임/n진수게임.md)                        |  1   |    X    |        20240402        | 2018 KAKAO BLIND RECRUITMENT |
 |                      | [3](./level3/level3.md) | [보석 쇼핑](./level3/보석쇼핑/보석쇼핑.md)                           |  1   |    O    |        20240310        | 2020 카카오 인턴십                            |
 |                      | [3](./level3/level3.md) | [경주로 건설](./level3/경주로건설/경주로건설.md)                        |  1   |    O    |        20240311        | 2020 카카오 인턴십                            |
 |                      | [3](./level3/level3.md) | [합승 택시 요금](./level3/합승택시요금/합승택시요금.md)                    |  1   |    O    |        20240312        | 2021 KAKAO BLIND RECRUITMENT            |
