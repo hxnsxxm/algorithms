@@ -25,6 +25,7 @@
 |                      | [2](./level2/level2.md) | [3차 압축](./level2/압축/압축.md)                               |  1   |    X    |        20240401        | 2018 KAKAO BLIND RECRUITMENT |
 |                      | [2](./level2/level2.md) | [n진수 게임](./level2/n진수게임/n진수게임.md)                        |  1   |    X    |        20240402        | 2018 KAKAO BLIND RECRUITMENT |
 |                      | [2](./level2/level2.md) | [모음사전](./level2/모음사전/모음사전.md)                            |  1   |    O    |        20240403        | 완전탐색                         |
+|                      | [2](./level2/level2.md) | [게임 맵 최단거리](./level2/게임맵최단거리/게임맵최단거리.md)                    |  1   |    X    |        20240404        | 깊이/너비 우선 탐색(DFS/BFS)  |
 |                      | [3](./level3/level3.md) | [보석 쇼핑](./level3/보석쇼핑/보석쇼핑.md)                           |  1   |    O    |        20240310        | 2020 카카오 인턴십                 |
 |                      | [3](./level3/level3.md) | [경주로 건설](./level3/경주로건설/경주로건설.md)                        |  1   |    O    |        20240311        | 2020 카카오 인턴십                 |
 |                      | [3](./level3/level3.md) | [합승 택시 요금](./level3/합승택시요금/합승택시요금.md)                    |  1   |    O    |        20240312        | 2021 KAKAO BLIND RECRUITMENT |
