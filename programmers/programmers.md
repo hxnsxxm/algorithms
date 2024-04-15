@@ -34,7 +34,8 @@
 |                      | [2](./level2/level2.md) | [땅따먹기](./level2/땅따먹기/땅따먹기.md)                            |  1   |    X    |        20240410        | 연습문제                         |
 |                      | [2](./level2/level2.md) | [스킬트리](./level2/스킬트리/스킬트리.md)                            |  1   |    O    |        20240411        | Summer/Winter Coding(~2018)  |
 |                      | [2](./level2/level2.md) | [오픈채팅방](./level2/오픈채팅방/오픈채팅방.md)                         |  1   |    X    |        20240412        | 2018 KAKAO BLIND RECRUITMENT |
-|                      | [2](./level2/level2.md) | [3차 파일명 정렬](./level2/파일명정렬/파일명정렬.md)                     |  1   |    O    |        20240414        |  2018 KAKAO BLIND RECRUITMENT  |
+|                      | [2](./level2/level2.md) | [3차 파일명 정렬](./level2/파일명정렬/파일명정렬.md)                     |  1   |    O    |        20240414        | 2018 KAKAO BLIND RECRUITMENT |
+|                      | [2](./level2/level2.md) | [택배상자](./level2/택배상자/택배상자.md)                            |  1   |    O    |        20240415        | 연습문제                         |
 |                      | [3](./level3/level3.md) | [보석 쇼핑](./level3/보석쇼핑/보석쇼핑.md)                           |  1   |    O    |        20240310        | 2020 카카오 인턴십                 |
 |                      | [3](./level3/level3.md) | [경주로 건설](./level3/경주로건설/경주로건설.md)                        |  1   |    O    |        20240311        | 2020 카카오 인턴십                 |
 |                      | [3](./level3/level3.md) | [합승 택시 요금](./level3/합승택시요금/합승택시요금.md)                    |  1   |    O    |        20240312        | 2021 KAKAO BLIND RECRUITMENT |
